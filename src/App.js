@@ -7,15 +7,9 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <footer>
-        Coded by{" "}
-        <a href="https://github.com/mimi-netizen" target="_blank">
-          Celyne Kydd
-        </a>{" "}
-        and is{" "}
-        <a
-          href="https://github.com/mimi-netizen/react-weather-project"
-          target="_blank"
-        >
+        Coded by <a href="https://github.com/mimi-netizen">Celyne Kydd</a> and
+        is{" "}
+        <a href="https://github.com/mimi-netizen/react-weather-project">
           open-sourced on Github
         </a>
       </footer>
